@@ -16,4 +16,4 @@ set(PROJECT_SOURCES
         mainwindow.ui
         icons.qrc
 )
-target_link_libraries(lab9 PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
+target_link_libraries(PROJECT_SOURCES PRIVATE Qt${QT_VERSION_MAJOR}::Widgets)
