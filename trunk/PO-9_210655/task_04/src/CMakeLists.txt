@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(lab4 VERSION 2023.10.04.0 LANGUAGES CXX)
+project(lab4 LANGUAGES CXX)
 set(CMAKE_AUTOUIC ON)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
