@@ -150,7 +150,7 @@ classDiagram
     RobotBuilder <|-- ConcreteRobotBuilder
     Director --> RobotBuilder
     Director --> ConcreteRobotBuilder
-```
+````
 
 ## Вывод
 
