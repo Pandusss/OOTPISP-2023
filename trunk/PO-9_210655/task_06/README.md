@@ -100,7 +100,7 @@ classDiagram
     AbstractFactory <|-- SingletonWinFactory
 ```
 
-````mermaid
+```mermaid
 ---
 title: Builder
 ---
@@ -151,7 +151,6 @@ classDiagram
     Director --> RobotBuilder
     Director --> ConcreteRobotBuilder
 ```
-````
 
 ## Вывод
 
