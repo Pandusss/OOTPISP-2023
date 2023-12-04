@@ -5,4 +5,3 @@ add_executable(lab8
         AbstractFactory.h
         Builder.h
 )
-target_link_libraries(lab8 Qt${QT_VERSION_MAJOR}::Widgets)
